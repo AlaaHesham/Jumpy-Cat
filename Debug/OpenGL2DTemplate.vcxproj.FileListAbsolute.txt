@@ -1,0 +1,2 @@
+E:\Lectures 5\DMET502-Computer Graphics\Template\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
+E:\Lectures 5\DMET502-Computer Graphics\Labs\Template\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
